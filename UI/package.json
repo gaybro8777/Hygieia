@@ -47,7 +47,7 @@
     "gulp-useref": "~1.0.2",
     "gulp-watch": "~4.3.5",
     "gulp-yaml": "~1.0.1",
-    "http-proxy": "~1.7.0",
+    "http-proxy": "~1.18.1",
     "jade": "~1.8.1",
     "jasmine-core": "~2.4.1",
     "jasmine-sinon": "~0.4.0",
